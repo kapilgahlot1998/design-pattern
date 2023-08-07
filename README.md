@@ -29,6 +29,8 @@ Your contributions to this repository are highly encouraged! If you'd like to ad
 
 **Let's Collaborate:**
 
+TheSmartCoders
+
 Join us on this journey to demystify design patterns and elevate your software design skills. Whether you're a student, a professional, or simply curious about software architecture, this repository is designed to empower you with practical knowledge that you can apply to your projects.
 
 Start exploring the world of design patterns today by cloning this repository and embarking on a journey to enhance your software engineering expertise!
