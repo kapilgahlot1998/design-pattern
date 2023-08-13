@@ -2,7 +2,7 @@ package com.thesmartcoders.creational.java.abstractFactory;
 
 public class Client {
 
-    private RoomTilePatternFactory roomTilePatternFactory;
+    private final RoomTilePatternFactory roomTilePatternFactory;
 
     public Client(ClassicRoomTilePatternFactory roomTilePatternFactory) {
         this.roomTilePatternFactory = roomTilePatternFactory;

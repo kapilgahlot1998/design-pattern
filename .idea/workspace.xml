@@ -5,22 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31ce169f-0b11-4d78-a0ec-f32f6f4dbcce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withMediator/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withMediator/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withMediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withMediator/PowerSupply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withMediator/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withoutMediator/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withoutMediator/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withoutMediator/PowerSupply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/mediator/withoutMediator/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/memento/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/memento/TextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/memento/TextWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/memento/TextWindowState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/memento/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/AuthenticationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/AuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/OauthProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/OauthProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/UserNameAuthenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/UserNamePasswordAuthenticationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/chainofresponsibility/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/command/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/command/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/command/TextFileOpenOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/command/TextFileOperationInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/command/TextFileOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/command/TextFileSaveOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/command/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/standard/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/standard/MediaChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/standard/NewsAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/standard/NewsChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/standard/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/withPropertyListner/MediaChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/withPropertyListner/NewsAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/withPropertyListner/NewsChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/observer/withPropertyListner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/strategy/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/strategy/Gpay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/strategy/PaymentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/strategy/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/strategy/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/visitor/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/visitor/MailSenderVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/visitor/Resident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/visitor/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/behavioural/java/visitor/read.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/creational/java/abstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thesmartcoders/creational/java/abstractFactory/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +84,27 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Learning/2023/Workspace/GitHubRepos/design-pattern/src/main/java/com/thesmartcoders/structural/java/facade/DesignPattern",
+    "last_opened_file_path": "D:/Learning/2023/Workspace/GitHubRepos/design-pattern/src/main/java/com/thesmartcoders/behavioural/java/observer/withPropertyListner",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.thesmartcoders.behavioural.java.mediator.withoutMediator" />
-      <recent name="com.thesmartcoders.behavioural.java.memento" />
-      <recent name="com.thesmartcoders.structural.java.flyweight" />
-      <recent name="com.thesmartcoders.structural.java.facade.LegacyImplementation" />
-      <recent name="com.thesmartcoders.structural.java.composite" />
+      <recent name="com.thesmartcoders.behavioural.java.chainofresponsibility" />
+      <recent name="com.thesmartcoders.behavioural.java.strategy" />
+      <recent name="com.thesmartcoders.behavioural.java.observer" />
+      <recent name="com.thesmartcoders.behavioural.java.command" />
+      <recent name="com.thesmartcoders.behavioural.java.visitor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning\2023\Workspace\GitHubRepos\design-pattern\src\main\java\com\thesmartcoders\behavioural\java\observer\withPropertyListner" />
       <recent name="D:\Learning\2023\Workspace\GitHubRepos\design-pattern\src\main\java\com\thesmartcoders\structural\java\facade\DesignPattern" />
       <recent name="D:\Learning\2023\Workspace\GitHubRepos\design-pattern\src\main\java\com\thesmartcoders\structural\java\adapter\classBased" />
       <recent name="D:\Learning\2023\Workspace\GitHubRepos\design-pattern\src\main\java\com\thesmartcoders\creational\java\builder\freeBuilderLibrary" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning\2023\Workspace\GitHubRepos\design-pattern\src\main\java\com\thesmartcoders\behavioural\java\observer" />
+      <recent name="D:\Learning\2023\Workspace\GitHubRepos\design-pattern\src\main\java\com\thesmartcoders\behavioural\java\observer\standard" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.thesmartcoders.behavioural.java.mediator.withMediator" />
@@ -83,13 +112,13 @@
       <recent name="com.thesmartcoders.creational.java.builder.freeBuilderLibrary" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.thesmartcoders.behavioural.java.mediator.withMediator.Runner">
+  <component name="RunManager" selected="Application.com.thesmartcoders.behavioural.java.chainofresponsibility.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.memento.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.observer.Runner" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.memento.*" />
+          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.thesmartcoders.behavioural.java.mediator.withMediator.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.mediator.withMediator.Runner" />
+    <configuration name="com.thesmartcoders.behavioural.java.chainofresponsibility.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.chainofresponsibility.Runner" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.mediator.withMediator.*" />
+          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.chainofresponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.thesmartcoders.behavioural.java.mediator.withoutMediator.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.mediator.withoutMediator.Runner" />
+    <configuration name="com.thesmartcoders.behavioural.java.command.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.command.Runner" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.mediator.withoutMediator.*" />
+          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.thesmartcoders.structural.java.facade.LegacyImplementation.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.structural.java.facade.LegacyImplementation.Runner" />
+    <configuration name="com.thesmartcoders.behavioural.java.observer.withPropertyListner.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.observer.withPropertyListner.Runner" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thesmartcoders.structural.java.facade.LegacyImplementation.*" />
+          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.observer.withPropertyListner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.thesmartcoders.structural.java.flyweight.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.structural.java.flyweight.Runner" />
+    <configuration name="com.thesmartcoders.behavioural.java.strategy.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thesmartcoders.behavioural.java.strategy.Runner" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thesmartcoders.structural.java.flyweight.*" />
+          <option name="PATTERN" value="com.thesmartcoders.behavioural.java.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,20 +205,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.com.thesmartcoders.behavioural.java.mediator.withMediator.Runner" />
-      <item itemvalue="Application.com.thesmartcoders.behavioural.java.mediator.withoutMediator.Runner" />
-      <item itemvalue="Application.com.thesmartcoders.structural.java.facade.LegacyImplementation.Runner" />
-      <item itemvalue="Application.com.thesmartcoders.structural.java.flyweight.Runner" />
       <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.com.thesmartcoders.behavioural.java.chainofresponsibility.Runner" />
+      <item itemvalue="Application.com.thesmartcoders.behavioural.java.observer.withPropertyListner.Runner" />
+      <item itemvalue="Application.com.thesmartcoders.behavioural.java.strategy.Runner" />
+      <item itemvalue="Application.com.thesmartcoders.behavioural.java.command.Runner" />
       <item itemvalue="Maven.design-pattern [clean,install]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.thesmartcoders.behavioural.java.mediator.withMediator.Runner" />
-        <item itemvalue="Application.com.thesmartcoders.behavioural.java.mediator.withoutMediator.Runner" />
+        <item itemvalue="Application.com.thesmartcoders.behavioural.java.chainofresponsibility.Runner" />
+        <item itemvalue="Application.com.thesmartcoders.behavioural.java.strategy.Runner" />
+        <item itemvalue="Application.com.thesmartcoders.behavioural.java.observer.withPropertyListner.Runner" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.com.thesmartcoders.structural.java.flyweight.Runner" />
-        <item itemvalue="Application.com.thesmartcoders.structural.java.facade.LegacyImplementation.Runner" />
+        <item itemvalue="Application.com.thesmartcoders.behavioural.java.command.Runner" />
       </list>
     </recent_temporary>
   </component>
